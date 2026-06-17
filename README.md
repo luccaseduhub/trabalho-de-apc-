@@ -12,6 +12,3 @@ O programa implementa:
 Para executar, basta compilar o arquivo `main.c` em qualquer compilador C padrão e rodar o executável gerado.
 
 ---
-
-**Desenvolvido por:**
-- Lucas Eduardo Alves Borges (RA: 2612130006)
